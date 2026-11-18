@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "dsh-aha-tail",
   "version": "0.2.0",
   "description": "Every finished reply in the DeepSeek Harness Web UI gets a sticker from a bundled sticker pack; click to swap. Bring your own folder too.",
