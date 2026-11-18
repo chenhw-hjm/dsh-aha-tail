@@ -1,0 +1,20 @@
+# Aha 表情包：每轮回复结束时贴一张表情包。
+# 装好即用：默认使用插件自带的 assets/ 素材，不需要任何配置。
+- insert:
+    - id: aha-tail
+      name: dsh-aha-tail
+      config:
+        # 素材目录：
+        #   留空 ''   = 使用插件自带的 assets/（推荐，装好即用）
+        #   绝对路径  = 使用你自己的表情包文件夹（png/jpg/gif/webp/avif，可多级子目录）
+        dir: ''
+        # 总开关
+        enabled: true
+        # 表情包显示高度，单位 px，范围 32–240
+        height: 84
+        # 只保留相对路径里包含这些片段的图片（留空 = 不过滤），例如 ['game/'] 只用游戏那套
+        include: []
+        # 排除相对路径里包含这些片段的图片，例如 ['gif/'] 不要动图
+        exclude: []
+        # 是否递归扫描子目录
+        recursive: true

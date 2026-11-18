@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Aha sticker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd166"/>
+      <stop offset="1" stop-color="#ff7a59"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M30 32h68a14 14 0 0 1 14 14v34a14 14 0 0 1-14 14H62l-20 16v-16h-12a14 14 0 0 1-14-14V46a14 14 0 0 1 14-14z" fill="#fffdf7"/>
+  <circle cx="50" cy="57" r="7" fill="#3b2b20"/>
+  <circle cx="78" cy="57" r="7" fill="#3b2b20"/>
+  <path d="M48 74c5 7 12 10 16 10s11-3 16-10" fill="none" stroke="#3b2b20" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="96" cy="34" r="6" fill="#ffffff" opacity="0.85"/>
+</svg>
