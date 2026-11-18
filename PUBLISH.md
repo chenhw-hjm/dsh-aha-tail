@@ -130,3 +130,5 @@ git commit -m "feat: 初始版本"
 | 2026-11-18 | 打 tag `v0.2.0` + 建 Release |
 | — | 修复 README / PUBLISH 中文乱码（重写为 UTF-8） |
 | 2026-11-18 | 提交 `7643e67`：`fix: rewrite README and PUBLISH in clean UTF-8 (fix garbled text in plugin details)`；版本 → 0.2.1 |
+| 2026-11-18 | 提交 `1dd8b97`：`chore: v0.2.1 - fix garbled Chinese in docs`；打 tag `v0.2.1` + 建 Release「v0.2.1 - 修复中文乱码」 |
+| 2026-11-18 | 加《素材来源与版权声明》（素材来自 B 站 UP 主「最上川下山」），LICENSE 补素材声明；版本 → 0.2.2 |

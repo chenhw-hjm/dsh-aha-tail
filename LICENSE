@@ -22,6 +22,25 @@ SOFTWARE.
 
 ---
 
-Sticker images bundled under assets/ come from the "阿哈" (Aha) sticker pack
-and are redistributed here as part of this project with the permission of the
-project author. If you own the artwork and want it removed, open an issue.
+Asset notice / 素材声明
+
+The MIT license above covers the source code of this project only
+(index.js, client.js, scan.js, scripts/, test/, docs). It does NOT cover the
+sticker images under assets/.
+
+The sticker images originate from the "Aha" (阿哈) sticker pack shared by the
+Bilibili creator 「最上川下山」. Copyright in the artwork (characters, frames,
+animations) belongs to the original creator and rights holders. This
+repository claims no ownership of, and grants no license to, those images;
+they are bundled solely for personal, non-commercial use by the repository
+author. Do not use them commercially, redistribute them separately, or
+present them as your own; if you want to reuse them, contact the original
+creator for permission and keep the attribution.
+
+If you are the creator or a rights holder and would like the assets removed,
+please open an issue. Upon verification the assets/ directory will be deleted
+and the plugin will default to a user-supplied sticker folder (configure `dir`).
+
+内置表情包原始素材来自哔哩哔哩 UP 主「最上川下山」，版权归原作者及原权利方所有；
+本仓库仅为个人非商业使用而收录，不主张权利、不授予任何素材许可。
+如你是权利方并希望移除，请开 Issue，确认后会立即删除 assets/ 目录并改为用户自备素材目录。
