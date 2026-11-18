@@ -129,3 +129,4 @@ git commit -m "feat: 初始版本"
 | 2026-11-18 | `gh repo create` 建 public 仓库并 push，main 跟踪 origin/main |
 | 2026-11-18 | 打 tag `v0.2.0` + 建 Release |
 | — | 修复 README / PUBLISH 中文乱码（重写为 UTF-8） |
+| 2026-11-18 | 提交 `7643e67`：`fix: rewrite README and PUBLISH in clean UTF-8 (fix garbled text in plugin details)`；版本 → 0.2.1 |

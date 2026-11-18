@@ -4,7 +4,7 @@
 
 [DeepSeek Harness](https://github.com/deepseek-ai) Web 界面插件。插件**自带 517 张表情包**（508 张静态 + 9 张动图），装好刷新页面就能用，不需要任何配置；也可以把 `dir` 指向你自己的图片文件夹。
 
-- 当前版本：`v0.2.0` · 许可：MIT · 生效位置：`conversation.chat.turnTail` 插槽
+- 当前版本：`v0.2.1` · 许可：MIT · 生效位置：`conversation.chat.turnTail` 插槽
 - 只影响 Web 界面，不经过模型、不花 token、不写任何文件（素材目录只读）
 
 ## 特性
